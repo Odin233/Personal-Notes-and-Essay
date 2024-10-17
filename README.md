@@ -1,7 +1,7 @@
 # Personal-Notes-and-Essay
  Personal Markdown Notes and Essay for University Cources, Self-Learning Recording and Critical Thinking Essay.
 
- ![image](https://github.com/user-attachments/assets/6e3b6d08-dd35-4306-afd5-2660b9f5b60a)
+![image](https://github.com/user-attachments/assets/0cad92c2-4c79-4203-b0a5-a676f5e44d34)
 
 # 大学理论课程笔记、自学内容及相关项目博客
 
